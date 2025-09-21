@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Keep solution folders/files
+!2025/
+!README.md
+!.gitignore
+
